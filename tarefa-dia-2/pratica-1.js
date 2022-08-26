@@ -19,3 +19,4 @@ let dreamplace
 dreamplace = "paris" 
 console.log(dreamplace)
 
+console.log("minha idade é");console.log(idade)
