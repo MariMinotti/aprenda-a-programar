@@ -14,3 +14,7 @@ console.log(profissao)
 let email  
 email= "minotti.m93@gmail.com"
 console.log(email)
+
+let dreamplace
+dreamplace = "paris" 
+console.log(dreamplace)
