@@ -6,3 +6,4 @@ if (typeof(valor) == "number") {
 } else {
     console.log(`${valor} não é do tipo number`)
 }
+
