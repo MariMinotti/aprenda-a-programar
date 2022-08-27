@@ -4,3 +4,13 @@ let codigo = "ABCDBDHEKSJLFYHAZDNJCLAAWJBHTZVEKVMIFKHFKCEHEKLUTBQLFYHAZDNJCLAAWJ
 
 
 console.log(codigo.length)
+// 121333
+// 6110 
+ let length =  6110
+
+ if (length > 121333) {
+    console.log("Perdão, Alan Turing. Vocês não conseguirão derrotar os nazistas. :'(")
+ } else {
+    console.log("Maravilha! O código tem menos ou é igual a 6110 caracteres! Mãos à obra! Decifrem o código o quanto antes que vocês vão conseguir derrotá-los! :D")
+ }
+
